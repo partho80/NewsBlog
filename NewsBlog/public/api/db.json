@@ -1,0 +1,88 @@
+{
+    "success":true,
+    "topicList":[
+        {
+            "id":1,
+            "title":"React"
+        },
+        {
+            "id":2,
+            "title":"Vue"
+        },
+        {
+            "id":3,
+            "title":"Audi"
+        },
+        {
+            "id":4,
+            "title":"Real Madrid"
+        },
+        {
+            "id":5,
+            "title":"Manchester United"
+        },
+        {
+            "id":6,
+            "title":"CR7"
+        },
+        {
+            "id":7,
+            "title":"Ipad"
+        },
+        {
+            "id":8,
+            "title":"Iphone"
+        },
+        {
+            "id":9,
+            "title":"Chelsea"
+        },
+        {
+            "id":10,
+            "title":"Liverpool"
+        },
+        {
+            "id":11,
+            "title":"Asernal"
+        },
+        {
+            "id":12,
+            "title":"Barcelona"
+        },
+        {
+            "id":13,
+            "title":"Paris"
+        }
+    ],
+    "articleList": [
+        {
+            "id": 1,
+            "title": "S8 LOL Champion - IG",
+            "desc": "Although the South Korea (LCK) representative, Kingzone DragonX, lost to China's (LPL) representative Royal Never Give Up (LPL) in 2018 ...",
+            "imgUrl": "https://www.gloshine.com/media/upload/new/a158.jpg"
+        },
+        {
+            "id": 2,
+            "title": "2018 UEFA Champions League Champion - Real Madrid",
+            "desc": "Gareth Bale scored one of European football's great goals to help Real Madrid overcome Liverpool and win their third successive Champions League...",
+            "imgUrl": "https://icdn.football-espana.net/wp-content/uploads/2020/11/cristiano-ronaldo-real-madrid-champons-league_13wnw3yuz1nd51f9hso5zns1gf.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Chelsea drawing interest from at least 10 credible buyers - sources",
+            "desc": "Roman Abramovich's decision to sell Chelsea has led to more than 300 expressions of interest to Raine Group -- the New York merchant bank...",
+            "imgUrl": "https://images.perthnow.com.au/publication/C-5924155/528c9c38ec6d2e35078bc7fa69bf504ab719f825-16x9-x0y0w1280h720.jpg?imwidth=828&impolicy=pn_v3"
+        },
+        {
+            "id": 4,
+            "title": "This is Jurgen Klopp's best Liverpool team, and here are the numbers to prove it",
+            "desc": "After roughly 200 words of consternation, Jurgen Klopp finally admitted it a couple of weeks ago: This current team, the 2021-22 iteration...",
+            "imgUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0228%2Fr980411_1296x729_16%2D9.jpg&w=570&format=jpg"
+        }
+    ],
+    "recommendList":[
+        {
+            "id":1
+        }
+    ]
+}
